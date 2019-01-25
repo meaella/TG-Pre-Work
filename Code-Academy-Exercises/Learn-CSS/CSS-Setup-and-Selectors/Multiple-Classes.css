@@ -1,0 +1,5 @@
+.uppercase {
+  	text-transform: uppercase;
+	}
+
+/* I learned that could include multiple classes on one HTML element "<h1 class="title uppercase">Top Vacation Spots</h1>" */
