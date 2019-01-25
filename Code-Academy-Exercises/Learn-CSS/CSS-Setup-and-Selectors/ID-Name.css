@@ -1,0 +1,6 @@
+#article-title {
+	font-family: cursive;
+	text-transform: capitalize;
+}
+
+/* I learned that if an HTML element needs to be styled uniquely we can add an ID to the element <h1 id="article-title"> */
