@@ -1,0 +1,5 @@
+.title {
+ 		color: teal;
+}
+
+/* I learned that to select element with class="title" attribute we could use the following CSS selector ".title" */
