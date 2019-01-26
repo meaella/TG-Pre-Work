@@ -1,0 +1,7 @@
+.publish-time {
+  color: gray;
+}
+
+/* <h6 class="publish-time">Published: 2 Days Ago</h6>
+
+I learned that classes are meant to be used many times, an ID is meant to style only one element */
