@@ -1,0 +1,15 @@
+.title {
+	color: teal;
+}
+.cursive {
+  font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+
+/*
+  <h1 class="title cursive capitalize">Top Vacation Spots</h1>
+
+ I learned that a best practice in CSS is to style elements while using the lowest degree of specificity,
+ so that if an element needs a new style, it is easy to override */
