@@ -1,0 +1,9 @@
+.description h5{
+  color: teal;
+}
+h5 {
+  color: rebeccapurple !important;
+}
+
+/* I learned about "!important" that can be applied to specific attributes instead of full rules and
+it will override any style no matter how specific it is, once !important is used, it is very hard to override */
