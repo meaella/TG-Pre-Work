@@ -1,0 +1,6 @@
+h5,
+p {
+	 font-family: Georgia;
+}
+
+/* I learned that we can separate the selectors by a comma to apply the same style to both */
