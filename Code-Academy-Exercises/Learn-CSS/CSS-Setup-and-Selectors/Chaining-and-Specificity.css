@@ -1,0 +1,8 @@
+.description h5{
+  color: teal;
+}
+h5 {
+  color: rebeccapurple;
+}
+
+/* I learned that adding more than one tag, class, or ID to a CSS selector increases the specificity of the CSS selector */
