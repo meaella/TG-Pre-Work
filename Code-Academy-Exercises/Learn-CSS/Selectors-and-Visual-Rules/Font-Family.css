@@ -1,0 +1,8 @@
+h1, h2 {
+	font-family : Georgia;
+}
+p {
+  font-family: Helvetica;
+}
+
+/* I learned that to change the typeface of text on a webpage I can use the font-family property */
