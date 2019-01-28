@@ -1,0 +1,10 @@
+
+ .header{
+  position: fixed;
+ }
+
+ .welcome {
+  position: relative;
+ }
+
+/* I learned that we can fix an element to a specific position on the page by setting its position to fixed */
