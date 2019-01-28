@@ -1,0 +1,15 @@
+
+.green {
+  background-color: rgb(143, 188, 143);
+}
+
+.light {
+  background-color: rgb(160, 82, 45);
+}
+
+.city {
+  background-color: rgb(139, 69, 19);
+}
+
+/* I learned about RGB syntax for representing values that uses decimal numbers.
+The first number represents the amount of red, the second is green, and the third is blue */
