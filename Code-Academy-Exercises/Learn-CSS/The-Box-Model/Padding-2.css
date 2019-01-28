@@ -1,0 +1,9 @@
+
+h2{
+  padding: 20px 30px;
+}
+p{
+  padding: 10px 20px;
+}
+
+/* I leaned about that the padding property lets you specify exactly how much padding there should be on each side of the content in a single declaration */
