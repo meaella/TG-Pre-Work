@@ -1,0 +1,8 @@
+
+header {
+  position: absolute;
+  width: 100%;
+}
+
+/* I learned about the property position is set to "absolute". All other elements on
+the page will ignore the element and act like it is not present on the page */
