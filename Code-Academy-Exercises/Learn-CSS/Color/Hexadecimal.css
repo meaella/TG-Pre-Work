@@ -1,0 +1,23 @@
+
+.green {
+  background-color: #8FBC8F;
+}
+
+.light {
+  background-color: #A0522D;
+}
+
+.city {
+  background-color: #8B4513;
+}
+
+.vienna {
+  background-color: #A52A2A;
+}
+
+.italian {
+  background-color: #000000;
+}
+
+/* I learned that we can use hexadecimal syntax to specify colors. A hex color begins with a hash character (#) which is followed by three or six characters.
+ The characters represent values for red, blue and green.*/
