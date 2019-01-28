@@ -1,0 +1,22 @@
+#banner {
+  height: 700px;
+}
+#main {
+  overflow: scroll;
+}
+
+.pull-quote {
+  margin: 0 auto;
+  width: 400px;
+}
+
+.share a {
+  padding: 14px;
+}
+
+.share a:hover {
+  border: 1px solid red;
+}
+
+/* I learn about the box model that all elements on a web page are interpreted by the browser as "living" inside of a box
+and height, width, padding, border, margin, overflow reperesents this model */
