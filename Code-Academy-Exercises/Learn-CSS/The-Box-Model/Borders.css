@@ -1,0 +1,9 @@
+h2{
+  border: 1px dotted red;
+}
+
+#banner .content h1 {
+  border: 3px solid white;
+}
+
+/* I learned that a border is a line that surrounds an element and it can be set with a specific width, style, and color */
