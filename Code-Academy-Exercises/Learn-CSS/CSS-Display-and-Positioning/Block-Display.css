@@ -1,0 +1,11 @@
+
+footer {
+  height: 100px;
+}
+
+/*
+<footer>
+  <h3>Thanks for taking our survey!</h3>
+</footer>
+
+I learned that some elements are not displayed in the same line as the content around them - block-level elements */
