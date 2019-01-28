@@ -1,0 +1,11 @@
+
+.pull-quote {
+  width: 350px;
+  margin: 0 auto;
+}
+
+#main {
+  margin: 0 auto;
+}
+
+/* I learned that the margin property also lets you center content */
