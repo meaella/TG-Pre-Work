@@ -1,0 +1,7 @@
+
+#main {
+  height: 1000px;
+  overflow: scroll; 
+}
+
+/* I learned that the overflow property controls what happens to content that overflows, outside its box */
