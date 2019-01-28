@@ -1,0 +1,11 @@
+
+
+p {
+  min-width: 200px;
+  max-width: 800px;
+  min-height: 200px;
+  max-height: 300px;
+}
+
+/* I learned that the content on the web page can suffer from changes in size,
+to avoid this problem, CSS offers two properties that can limit how narrow or how wide an element's box can be sized to */
