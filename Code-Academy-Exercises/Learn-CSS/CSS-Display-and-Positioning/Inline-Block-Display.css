@@ -1,10 +1,13 @@
 
-li{
+li {
   display: inline-block;
   width: 80px;
 }
 welcome {
   top: 50px;
+}
+.answer {
+  display: inline-block;
 }
 
 /* I leaned that inline-block elements can appear next to each other and we can
