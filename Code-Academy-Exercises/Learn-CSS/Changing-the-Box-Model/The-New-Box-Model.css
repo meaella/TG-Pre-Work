@@ -1,0 +1,6 @@
+
+* {
+  box-sizing: border-box;
+}
+
+/* I learned that selector (*) sets their box model to the border-box model */
