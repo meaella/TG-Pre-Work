@@ -1,0 +1,13 @@
+
+#banner {
+height: 700px;
+}
+
+.pull-quote {
+  width: 350px;
+}
+
+#banner .content h1 {
+  width: 400px;
+}
+/* I learned that an element's content has two dimensions: a height and a width */
