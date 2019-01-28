@@ -1,0 +1,6 @@
+
+header {
+  z-index: 10;
+}
+
+/* I learned  about the z-index property that controls how far "back" or how far "forward" an element should appear on the web page when elements overlap */
