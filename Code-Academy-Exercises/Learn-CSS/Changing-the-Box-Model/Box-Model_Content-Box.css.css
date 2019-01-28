@@ -1,0 +1,6 @@
+
+* {
+  box-sizing: content-box;
+}
+
+/* I learned that the default value of box model property is "content-box" */
