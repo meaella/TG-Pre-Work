@@ -1,0 +1,6 @@
+
+#banner .content h1 {
+  border-radius: 12px;
+}
+
+/* I learned that I can modify the corners of an element's border box with the border-radius property*/
