@@ -1,1 +1,9 @@
-/* I learned that the default value of box model property is content-box */
+
+* {
+  box-sizing: border-box;
+}
+
+/* I learned that we can reset the entire box model and specify a new one "border-box"
+In this box model, the height and width of the box will remain fixed,
+the border thickness and padding will be included inside of the box
+ */
