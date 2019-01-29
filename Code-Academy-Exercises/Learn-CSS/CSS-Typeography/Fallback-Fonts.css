@@ -1,0 +1,10 @@
+
+.font-card .garamond .sample .text{
+  font-family: "Garamond", serif;
+}
+.helvetica .sample .text{
+  font-family: "Helvetica", sans-serif;
+}
+
+/* I learned that if a font is not installed on a user's computer, CSS can use 
+pre-installed fonts serve as fallback fonts */
