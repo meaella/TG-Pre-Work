@@ -1,0 +1,16 @@
+
+body {
+  background-color: rgba(0, 255, 0, 0.1);
+}
+
+.midground {
+  background-color: hsla(225, 100%, 25%, 0.4);
+}
+
+.foreground {
+  background-color: hsla(325, 50%, 50%, 0.6);
+}
+
+/* I learn about opacity and alpha.
+ To use opacity in the HSL color scheme (or in the RGB color scheme - rgba), use hsla,
+ and four values instead of three (the last value is the alpha) */
