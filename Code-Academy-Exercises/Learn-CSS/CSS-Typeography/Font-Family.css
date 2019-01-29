@@ -1,0 +1,15 @@
+
+h1 {
+  font-family: Georgia;
+}
+
+h2 {
+  font-family: Georgia;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+/* I leaned about the "type of font" that refers to the technical term typeface, or font family.
+To change the typeface of text on your web page, I can use the font-family property*/
