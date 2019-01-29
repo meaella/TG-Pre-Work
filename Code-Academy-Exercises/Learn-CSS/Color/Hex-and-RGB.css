@@ -1,0 +1,21 @@
+.green {
+  background-color: #9EB599;
+}
+
+.light {
+  background-color: #683C2C;
+}
+
+.city {
+  background-color: #4C352D;
+}
+
+.vienna {
+  background-color: #352926;
+}
+
+.italian {
+  background-color: #141212;
+}
+
+/* I learned that the hexadecimal and RGB color system can represent many more colors than the small set of CSS named colors */
