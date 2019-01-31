@@ -1,0 +1,6 @@
+
+main {
+  grid-auto-flow: column;
+}
+
+/* I learned about grid-auto-flow specifies whether new elements should be added to rows or columns */
