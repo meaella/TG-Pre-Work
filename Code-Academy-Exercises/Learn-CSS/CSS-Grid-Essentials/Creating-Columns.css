@@ -1,0 +1,6 @@
+
+.grid {
+  grid-template-columns: 100px 50% 200px;
+}
+
+/* I learned that I can to explicitly define the number of rows and columns in our grid. */
