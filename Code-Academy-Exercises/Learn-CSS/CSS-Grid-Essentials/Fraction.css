@@ -1,0 +1,6 @@
+
+.grid {
+  grid-template: 40% 50% 50px/3fr 50% 1fr;
+}
+
+/* I learned about fr unit, that I can define the size of columns and rows as a fraction of the grid's length and width */ 
