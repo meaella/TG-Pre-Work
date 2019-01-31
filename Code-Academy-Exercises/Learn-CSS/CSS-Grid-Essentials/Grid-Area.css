@@ -1,0 +1,15 @@
+
+.a {
+  grid-area: 5/1/span 2/span 2;
+}
+
+.b {
+  grid-area: 2/2/span 3/span 6;
+}
+
+.c {
+  grid-area: 6/8/span 3/span 1;
+}
+
+/* I leraned that we can refactor using the property grid-area.
+ This property will set the starting and ending positions for both the rows and columns of an item */
