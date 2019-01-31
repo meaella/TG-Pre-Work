@@ -1,0 +1,26 @@
+.container {
+  grid-template-areas: "header header"
+    									 "nav nav"
+    								   "left right"
+    									 "footer footer";
+	grid-template-columns: 200px 400px;
+  grid-template-rows: 150px 200px 600px 200px;
+}
+
+header {
+  grid-area: header;
+}
+nav {
+  grid-area: nav;
+}
+.left {
+  grid-area: left;
+}
+.right {
+  grid-area: right;
+}
+footer {
+  grid-area: footer;
+}
+
+/* I learned that the grid-template-areas property allows to name sections of the web page  */
