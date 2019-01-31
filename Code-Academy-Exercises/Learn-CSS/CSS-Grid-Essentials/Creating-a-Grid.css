@@ -1,0 +1,8 @@
+
+.grid  {
+  display: grid;
+}
+
+/* I learned that to turn an HTML element into a grid container, I must set the
+element's display property to grid (for a block-level grid) */
+ 
