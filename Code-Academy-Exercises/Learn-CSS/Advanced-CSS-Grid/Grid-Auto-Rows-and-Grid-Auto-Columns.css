@@ -1,0 +1,7 @@
+
+main {
+  grid-auto-rows: 500 pixels;
+}
+
+/* I learned that grid-auto-rows specifies the height of implicitly added grid rows.
+   The grid-auto-columns specifies the width of implicitly added grid columns */
