@@ -1,0 +1,6 @@
+
+.grid {
+  grid-template-rows: repeat(3, 1fr);
+}
+
+/* I learned about repeat() function that defines the number of rows and columns in a grid */
