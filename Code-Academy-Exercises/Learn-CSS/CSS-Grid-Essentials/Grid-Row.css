@@ -1,0 +1,6 @@
+
+.a {
+  grid-row: 5/7;
+}
+
+/* I learned that I can use the property grid-row as shorthand for grid-row-start and grid-row-end */
