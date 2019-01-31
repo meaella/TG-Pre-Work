@@ -1,0 +1,6 @@
+
+.grid {
+  grid-gap: 20px 5px;
+}
+
+/* I learned that the CSS properties grid-row-gap and grid-column-gap can put blank space between every row and column in the grid */
