@@ -1,0 +1,8 @@
+
+main {
+  justify-items: center;
+}
+.recipe {
+  width: 200px;
+}
+/* I learned about justify-items is a property that positions grid items along the inline, or row, axis */
