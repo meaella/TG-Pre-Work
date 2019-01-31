@@ -1,0 +1,6 @@
+
+.grid {
+  grid-template: 40% 50% 50px/100px 50% 200px;
+}
+
+/* I learned that the the property grid-template can replace the grid-template-rows and grid-template-columns */
