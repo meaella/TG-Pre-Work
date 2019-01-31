@@ -1,0 +1,14 @@
+
+.a {
+  align-self: end;
+}
+
+.c {
+  justify-self: start;
+}
+
+/* I learned about
+the justify-self that specifies how an individual element should position itself with respect to the row axis.
+This property will override justify-items for any item on which it is declared.
+The align-self specifies how an individual element should position itself with respect to the column axis.
+This property will override align-items for any item on which it is declared */
