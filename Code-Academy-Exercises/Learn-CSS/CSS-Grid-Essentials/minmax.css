@@ -1,0 +1,6 @@
+
+.grid {
+  grid-template-columns: 100px minmax(50px, 300px) 200px;
+}
+
+/* I learned that I might use minmax() function to a grid to resize based on the size of my web browser.*/
