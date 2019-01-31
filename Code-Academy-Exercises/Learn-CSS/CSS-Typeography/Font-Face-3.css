@@ -1,0 +1,11 @@
+
+@font-face {
+  font-family: "Glegoo";
+  src: url(../fonts/Glegoo-Regular.ttf) format('truetype');
+}
+.banner p {
+  font-family: Glegoo;
+  font-size: 20px;
+}
+
+/* I learned that I can  modify @font-face rule to use local font files as well */
