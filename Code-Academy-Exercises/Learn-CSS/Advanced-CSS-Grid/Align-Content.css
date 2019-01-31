@@ -1,0 +1,7 @@
+
+main {
+  height: 1600px;
+  align-content: center;
+}
+
+/* I leaned about align-content that positions the rows along the column axis, or from top to bottom */
