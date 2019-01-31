@@ -1,0 +1,6 @@
+
+.grid {
+  grid-template-rows: 40% 50% 50px;
+}
+
+/* I learned that to specify the number and size of the rows, we can use the property grid-template-rows */
