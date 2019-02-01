@@ -1,3 +1,5 @@
 
 
-/* I learned that a reusable block of code that groups together a sequence of statements to perform a specific task is a function */ 
+/* I learned about the scope that defines where variables can be accessed or referenced.
+While some variables can be accessed from anywhere within a program,
+other variables may only be available in a specific context  */
