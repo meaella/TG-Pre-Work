@@ -1,10 +1,10 @@
 
-const city = 'New York City';
-function logCitySkyline(){
-  let skyscraper = 'Empire State Building';
-  return 'The stars over the ' + skyscraper + ' in ' + city;
+function logVisibleLightWaves(){
+  const lightWaves = 'Moonlight';
+  console.log(lightWaves);
 }
-console.log(logCitySkyline());
+logVisibleLightWaves();
+console.log(lightWaves);
 
-/* I learned about a block  inside a set of curly braces {}.
-Blocks help us group one or more statements together and serve as an important structural marker for our code */
+/* I learned that when a variable is defined inside a block, it is only
+accessible to the code within the curly braces {} */
