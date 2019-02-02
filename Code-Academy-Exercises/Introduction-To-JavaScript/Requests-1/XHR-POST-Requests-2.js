@@ -10,5 +10,4 @@ xhr.onreadystatechange = () => {
   xhr.send(data);
 }
 
-/* I learned that the POST request requires additional information to be sent
-through the request. This additional information is sent in the body of the post request */
+// I learned how write the complete AJAX POST request.
